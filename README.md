@@ -74,7 +74,7 @@
 |:---:|---|
 |**이상범(팀장)**| * GUI 화면 설계 <br> * Client / Manage UI 개발 <br> * DB 구성 및 관리 (Github, Docker)|
 |**윤민섭(팀원)**| * 도로 환경 설계 <br> * 인지, 판단, 제어 알고리즘 개발|
-|**윤희태(팀원)**| * SLAM, Navigation 개발|
+|**윤희태(팀원)**| * A* 알고리즘을 통한 네비게이션 알고리즘 개발|
 |**김완섭(팀원)**| * YOLO (Detection, Segmentation) 개발 <br> * PPT 자료 준비 <br> * Github 정리|
 
 |구분|상세|
